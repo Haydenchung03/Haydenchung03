@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Hayden and I am a second year Computer Science at Carleton University. I have a few projects that you can check out currentely on my profile like a reddit scrapper that can post pictures to Instagram immediately based on the subreddit of your choice and also a simple social media app that you can try out! Currentely, I am working on a NBA game guesser and am looking to publish that on the cloud soon! 
+### My name is Hayden and I am a second year Computer Science at Carleton University. I have a few projects that you can check out currentely on my profile like a reddit scrapper that can post pictures to Instagram immediately based on the subreddit of your choice and also a simple social media app that you can try out! Currentely, I am working on a NBA game guesser and am looking to publish that on the cloud soon! If you have experience in front end development or social media marketing, shoot me a message and we can collaborate! 
 ### I am interested in roles in Web Development(Backend or Frontend), Cloud and DevOps, Product Management and Software Engineering! If you want to connect, my linkedin is https://www.linkedin.com/in/hayden-chung101/ and my email is haydenchung21@hotmail.com!
 
 <!--
