@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Retirement lol
+### Interested in collaborating on projects of all sorts.
 
 <!--
 **Haydenchung03/Haydenchung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
